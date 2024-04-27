@@ -1,6 +1,6 @@
 # 🤖 ChatGPT Prompt Engineering for Developers (Python) 
 
-In this repo, we will use a large language model (LLM) to build an application using an OpenAI API. This project was done for Deeplearning.AI. 
+In this repo, we will use a large language model (LLM) to build an application using an OpenAI API. 
 
 ### LLM APIS can be used for: 
 * Summarizing
